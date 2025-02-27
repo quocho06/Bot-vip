@@ -1,0 +1,80 @@
+{
+    "language": "vi",
+    "DeveloperMode": false,
+    "autoCreateDB": false,
+    "MAINTENANCE_MODE": false,
+    "iconUnsend": {
+        "status": true,
+        "icon": "❤"
+    },
+    "notiGroup": false,
+    "NOTIFICATION": true,
+    "allowInbox": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "autoClean": true,
+    "ACCESSTOKEN": "",
+    "BOTNAME": "shiva",
+    "AMDIN_NAME": "Có lỗi báo mình fix qua link bên dưới:",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/QuocTuanXxx",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100011855520258",
+        "100017377907645"
+    ],
+    "NDH": [
+        ""
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "antists.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"
+    },
+    "version": "1.2.14",
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 90
+        },
+        "delayUnsend": 60
+    },
+    "log": {
+        "enable": true
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 1000000
+    },
+    "anti": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "adminOnly": false,
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "cave": {
+        "cooldownTime": 86400
+    },
+    "farm": {
+        "cooldownTime": 300000
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "minecraft": {
+        "APIKEY": ""
+    }
+}
