@@ -14,7 +14,7 @@
     },
     "author": "D-Jukie",
     "dependencies": {
-        "@distube/ytdl-core": "^4.14.4",
+        "@distube/ytdl-core": "^4.16.4",
         "@ffmpeg-installer/ffmpeg": "^1.1.0",
         "@miraipr0ject/assets": "^1.0.9",
         "adm-zip": "^0.5.10",
